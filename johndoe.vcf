@@ -5,15 +5,15 @@ FN:John Doe
 ORG:CFIA/ACIA
 ADR;TYPE=WORK:2021 Union, Montréal QC H3A 2S9
 TITLE:Project Manager
-TEL;TYPE=CELL:5144455667
+TEL;TYPE=CELL:51433445567
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:
+EMAIL;TYPE=WORK:johndoe@cfia.ca
 URL;TYPE=Digital Business Card:
-URL:https://inspection.canada.ca
-URL;TYPE=Website:https://inspection.canada.ca
+URL:
+
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100031799
+UID:EnBizCard-100090508
 END:VCARD
