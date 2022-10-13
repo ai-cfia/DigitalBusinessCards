@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John;;;
+FN:John Doe
+ORG:CFIA/ACIA
+ADR;TYPE=WORK:2021 Union, Montréal QC H3A 2S9
+TITLE:Project Manager
+TEL;TYPE=CELL:5144455667
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:https://inspection.canada.ca
+URL;TYPE=Website:https://inspection.canada.ca
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100031799
+END:VCARD
